@@ -1,0 +1,10 @@
+{
+    "MISC": {
+        "DISCORD": {
+        "ONLY_OWNERID": ["ur user id"]
+        },
+        "WEBHOOK":{
+            "URL": ["ur webhook url"]
+        }
+    }
+}
